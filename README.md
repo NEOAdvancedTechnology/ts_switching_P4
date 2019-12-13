@@ -13,3 +13,5 @@ from 0 to 2 and emit them on IP DST 239.3.3.3, then to take input
 239.3.3.3, and finally to take input 239.1.1.1
 again with RTP timestamps 5 to 0xF and emit them on the
 239.3.3.3.
+
+The p4-16 source contains machine translated to P4-16 (src not tested yet) 
